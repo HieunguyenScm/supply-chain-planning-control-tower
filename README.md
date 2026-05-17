@@ -6,6 +6,8 @@ This project is a Power BI supply chain planning dashboard designed to support d
 
 The dashboard was built as a portfolio project aligned with a Supply Chain Intern role. The main objective is not only to visualize sales data, but to connect commercial performance with supply chain planning actions such as monitoring stock cover, identifying overstock risks, reviewing net demand, and tracking first-half-month revenue phasing against a 40% target.
 
+For a detailed business explanation of this dashboard, please read: [Project Insights](docs/project-insights.md)
+
 ## Business Questions
 1. Which categories, products, regions, and distributors drive sales performance?
 2. Which SKUs should be prioritized for demand review?
